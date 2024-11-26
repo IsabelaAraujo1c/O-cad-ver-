@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Cadáver da Aluna Isabela Araújo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>O Cadáver da Aluna Isabela Araújo</h1>
+            <p>Uma história de mistério na Escola Astrogildo Arruda</p>
+        </header>
+
+        <section class="story">
+            <h2>Capítulo 1: O Mistério Começa</h2>
+            <p>Era uma manhã chuvosa de segunda-feira quando os alunos da Escola Astrogildo Arruda receberam a notícia que ninguém jamais imaginaria ouvir: a aluna Isabela Araújo, uma estudante dedicada e popular, fora encontrada morta no banheiro da escola.</p>
+            <p>O clima de pânico tomou conta dos corredores. Nenhum dos estudantes ou professores podia entender como isso aconteceu. O que estava por trás da morte misteriosa de Isabela?</p>
+
+            <h2>Capítulo 2: O Corpo</h2>
+            <p>O corpo foi descoberto por uma professora durante o intervalo. Isabela estava caída no chão, com os olhos vidrados e uma expressão de puro terror congelada em seu rosto. O banheiro estava vazio e sem sinais de luta, mas algo parecia fora do lugar.</p>
+            <p>As autoridades foram chamadas imediatamente. Mas antes que pudessem investigar, algo ainda mais estranho aconteceu: o corpo desapareceu sem deixar rastros.</p>
+
+            <h2>Capítulo 3: O Mistério Revelado</h2>
+            <p>Investigações começaram a surgir, mas a verdade parecia se distanciar mais a cada dia. Quem era Isabela, e por que ela foi assassinada? Todos se perguntavam. Mas só uma pessoa sabia a verdade... e ela estava disposta a manter esse segredo a todo custo.</p>
+        </section>
+
+        <footer>
+            <p>História escrita por <strong>isabela araujo</strong> | 2024</p>
+        </footer>
+    </div>
+</body>
+</html>
